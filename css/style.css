@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: #00C8B2;
 }
 main{
     display: flex;
@@ -9,12 +9,13 @@ main{
     height: 300px;
 }
 .container{
-    background-color: blue;
+    background-color: #057E71;
     align-items: center;
     width: 600px;
     height: 400px;
     display: flex;
     flex-direction: column;
+    border-radius: 1px solid #fff;
 }
 .container h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
